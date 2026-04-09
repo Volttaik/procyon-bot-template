@@ -1,0 +1,23 @@
+{
+  "name": "procyon",
+  "STRINGS": {
+    "global": {
+      "botName": "Procyon Bot",
+      "footer": "Powered by Procyon",
+      "by": "Devatron",
+      "alive": "All systems operational. Running at full power.",
+      "aliveEmoji": "⚡",
+      "pic1": "https://files.catbox.moe/5uli5p.jpeg",
+      "ownerOnly": "⛔ This command is restricted to the bot owner.",
+      "adminOnly": "⛔ This command requires group admin privileges.",
+      "groupOnly": "⛔ This command can only be used in groups.",
+      "privateOnly": "⛔ This command can only be used in private chats.",
+      "error": "⚠️ An error occurred. Please try again.",
+      "noArgs": "❌ Missing arguments. Check the command usage.",
+      "cooldown": "⏳ Please wait before using this command again."
+    },
+    "error": {
+      "text": "⚠️ Something went wrong. Please try again later."
+    }
+  }
+}
